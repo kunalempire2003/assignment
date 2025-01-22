@@ -4,3 +4,4 @@ deepface
 numpy
 keras
 tf-keras
+tensorflow
